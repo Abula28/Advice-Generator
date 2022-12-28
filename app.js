@@ -17,7 +17,6 @@ let advices = [`“Whatever you are, be a good one.”`,
  `“Live every day like it's your last, one day you will be right.”`, `“It is never too late to be what you might have been.”`, 
 
  `“NEVER ARGUE WITH STUPID PEOPLE. THEY WILL DRAG YOU DOWN TO THEIR LEVEL AND BEAT YOU WITH EXPERIENCE.”`,
- 
 
  `“Strong minds discuss ideas. Average minds discuss events. Weak minds discuss people”`,
 
