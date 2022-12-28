@@ -16,7 +16,6 @@ body{
 
 .main{
     width: 540px;
-    height: 332px;
     background: #323A49;
     border-radius: 15px;
     display: flex;
@@ -46,10 +45,12 @@ body{
     letter-spacing: -0.01em;
     color: #CEE3E9;
     width: 437px;
+    margin-top: 24px;
 }
 
 .main .divider{
     margin-bottom: 72px;
+    margin-top: 40px;
 }
 
 .button{
